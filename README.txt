@@ -3,8 +3,7 @@ requirements:
  - Google Chrome
 installing dependencies:
 python3 -m pip install -r requirements.txt
--selenium webdriver
--pytest
+
 
 
 
